@@ -16,6 +16,7 @@ classes/artifacts/client_jar/client.jar
 !gradle-wrapper.jar
 .live/
 **/build/*
+**/__pycache__/*
 */out/
 .gradle/
 runelite-client/src/main/resources/runelite/*
@@ -28,6 +29,6 @@ hs_err_pid*.log
 # Project exclude paths
 /deobfuscator/libs/
 /frida-scripts/myutils/
-/js-injector/gen/
+js-injector/gen/*
 mors-client/local.properties
-deobfuscator/decompile.bat
+
