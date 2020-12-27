@@ -3,7 +3,7 @@ Android Open Source Old School RuneScape Helper
 
 This is not a client, it draws on top of the original OSRS client.
 
-Only works for Android
+Only works for Android 
 
 Your device needs to be rooted to use this application.
 
