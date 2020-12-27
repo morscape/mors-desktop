@@ -28,5 +28,6 @@ hs_err_pid*.log
 # Project exclude paths
 /deobfuscator/libs/
 /frida-scripts/myutils/
-/js-injector/gen
-/mors-client/local.properties
+/js-injector/gen/
+mors-client/local.properties
+deobfuscator/decompile.bat
