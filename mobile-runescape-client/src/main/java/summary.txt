@@ -1,0 +1,424 @@
+Summary for .\build\libs\mapped-3.5.4.jar
+Decompiled with CFR 0.150
+
+
+class6
+----------------------------
+
+method90(SequenceDefinition int SequenceDefinition int int )
+  Unable to fully structure code
+
+
+class13
+----------------------------
+
+method307(Scene CollisionMap[] byte )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [4[UNCONDITIONALDOLOOP]], but top level block is 6[UNCONDITIONALDOLOOP]
+
+
+Scene
+----------------------------
+
+removeGameObject(GameObject )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [0[UNCONDITIONALDOLOOP]], but top level block is 2[FORLOOP]
+occlude()
+  Unable to fully structure code
+method729(int int int )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [0[UNCONDITIONALDOLOOP]], but top level block is 2[UNCONDITIONALDOLOOP]
+drawTile(Tile boolean )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Statement already marked as first in another block
+Scene_buildVisiblityMap(int[] int int int int )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [1[UNCONDITIONALDOLOOP]], but top level block is 3[UNCONDITIONALDOLOOP]
+
+
+TileModel
+----------------------------
+
+<init>(int int int int int int int int int int int int int int int int int int int )
+  Unable to fully structure code
+
+
+class28
+----------------------------
+
+method855(Widget int int )
+  Handled impossible loop by adding 'first' condition
+  Unable to fully structure code
+
+
+WorldMapScaleHandler
+----------------------------
+
+method1021(int int byte )
+  Handled impossible loop by adding 'first' condition
+
+
+com.jagex.mobilesdk.auth.comms.RefreshComms
+----------------------------
+
+refreshTokenAction(java.lang.String java.util.Map java.util.Map )
+  Loose catch block
+
+
+com.jagex.mobilesdk.auth.comms.ShieldOAuth2Comms
+----------------------------
+
+shieldOAuth2Action(java.lang.String java.util.Map java.util.Map )
+  Loose catch block
+
+
+com.jagex.mobilesdk.federatedLogin.comms.FederatedComms
+----------------------------
+
+federatedLoginAction(java.lang.String java.util.Map com.jagex.mobilesdk.federatedLogin.model.FederatedLoginRequest )
+  Loose catch block
+
+
+com.jagex.mobilesdk.payments.comms.CompletePaymentComms
+----------------------------
+
+completePaymentAction(java.lang.String java.util.Map com.jagex.mobilesdk.payments.model.PaymentCompletionRequest )
+  Loose catch block
+
+
+com.jagex.mobilesdk.payments.comms.FetchCategoriesComms
+----------------------------
+
+fetchCategoriesAction(java.lang.String java.util.Map )
+  Loose catch block
+
+
+com.jagex.mobilesdk.payments.comms.FetchImageComms
+----------------------------
+
+fetchImageAction(java.lang.String )
+  Loose catch block
+
+
+WorldMapManager
+----------------------------
+
+method3652(int int int int java.util.HashSet int int class72 )
+  Unable to fully structure code
+method3655(AbstractArchive java.lang.String boolean int )
+  Unable to fully structure code
+
+
+class56
+----------------------------
+
+RunException_sendStackTrace(java.lang.String java.lang.Throwable )
+  Unable to fully structure code
+
+
+class76
+----------------------------
+
+method4321(AbstractSocket boolean byte )
+  Loose catch block
+
+
+VorbisCodebook
+----------------------------
+
+method4836()
+  Unable to fully structure code
+
+
+VorbisResidue
+----------------------------
+
+method5042(float[] int boolean )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [1[UNCONDITIONALDOLOOP]], but top level block is 4[UNCONDITIONALDOLOOP]
+
+
+PcmPlayer
+----------------------------
+
+method5065(int )
+  Unable to fully structure code
+
+
+class124
+----------------------------
+
+method5423(byte[] int int int int CollisionMap[] byte )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [0[UNCONDITIONALDOLOOP]], but top level block is 5[UNCONDITIONALDOLOOP]
+
+
+class126
+----------------------------
+
+method5528(int int int int int )
+  Unable to fully structure code
+
+
+class138
+----------------------------
+
+method5736()
+  Loose catch block
+run()
+  Loose catch block
+
+
+UrlRequester
+----------------------------
+
+run()
+  Unable to fully structure code
+
+
+class144
+----------------------------
+
+method5996(int )
+  Unable to fully structure code
+method5997(int )
+  Unable to fully structure code
+
+
+AbstractArchive
+----------------------------
+
+method6144(byte[] byte )
+  Unable to fully structure code
+
+
+ArchiveDiskActionHandler
+----------------------------
+
+method6343()
+  Loose catch block
+method6347(int ArchiveDisk )
+  Loose catch block
+method6350()
+  Unable to fully structure code
+
+
+class173
+----------------------------
+
+<init>(byte[] )
+  Unable to fully structure code
+
+
+TaskHandler
+----------------------------
+
+run()
+  Loose catch block
+
+
+ArchiveDisk
+----------------------------
+
+write(int byte[] int )
+  Unable to fully structure code
+method6969(int byte[] int boolean int )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [3[TRYBLOCK]], but top level block is 11[UNCONDITIONALDOLOOP]
+method6971(int byte )
+  Unable to fully structure code
+
+
+BufferedFile
+----------------------------
+
+method7053(byte[] int int int )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [1[TRYBLOCK]], but top level block is 3[TRYBLOCK]
+
+
+class257
+----------------------------
+
+vmethod7685(Entity int int int int int int int int long )
+  Unable to fully structure code
+method7469(Model boolean boolean long )
+  Unable to fully structure code
+
+
+class258
+----------------------------
+
+vmethod12172(int )
+  Unable to fully structure code
+
+
+Widget
+----------------------------
+
+method7553(Buffer byte )
+  Handled impossible loop by adding 'first' condition
+
+
+DevicePcmPlayer
+----------------------------
+
+method7586(int int int int short )
+  Unable to fully structure code
+
+
+class265
+----------------------------
+
+method7649(int[] int[] int int int int int int int int int int int int int byte )
+  Unable to fully structure code
+method7655(int[] int[] int int int int int int int int int int int int int int )
+  Unable to fully structure code
+
+
+ScriptEvent
+----------------------------
+
+method7702(Model boolean boolean long )
+  Unable to fully structure code
+
+
+Tile
+----------------------------
+
+method7733(byte )
+  Unable to fully structure code
+
+
+Client
+----------------------------
+
+vmethod8278(byte )
+  Unable to fully structure code
+method8302(Widget[] int int int int int int int int int )
+  Unable to fully structure code
+
+
+class286
+----------------------------
+
+vmethod10778(class384 int int int int int int int int int[] int[] int )
+  Unable to fully structure code
+vmethod10771(class384 int int int int int int double int byte )
+  Unable to fully structure code
+
+
+class292
+----------------------------
+
+vmethod10778(class384 int int int int int int int int int[] int[] int )
+  Unable to fully structure code
+vmethod10771(class384 int int int int int int double int byte )
+  Unable to fully structure code
+
+
+class304
+----------------------------
+
+method11061(class138 class72 int )
+  Unable to fully structure code
+
+
+VorbisSample
+----------------------------
+
+toRawSound(int[] )
+  Unable to fully structure code
+
+
+class310
+----------------------------
+
+vmethod11138(int )
+  Unable to fully structure code
+
+
+class324
+----------------------------
+
+method11444(int )
+  Loose catch block
+
+
+MusicPatch
+----------------------------
+
+<init>(byte[] )
+  Unable to fully structure code
+
+
+NetSocket
+----------------------------
+
+method11873(byte[] int int byte )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [3[WHILELOOP]], but top level block is 0[TRYBLOCK]
+run()
+  Unable to fully structure code
+
+
+DesktopPlatformInfoProvider
+----------------------------
+
+vmethod12172(int )
+  Unable to fully structure code
+
+
+class363
+----------------------------
+
+method12197(int int int int int boolean int )
+  Handled impossible loop by adding 'first' condition
+
+
+ItemDefinition
+----------------------------
+
+method13080(int int )
+  Handled impossible loop by adding 'first' condition
+method13081(int int )
+  Handled impossible loop by adding 'first' condition
+
+
+class381
+----------------------------
+
+method13236(class399 class399 class72 int )
+  Unable to fully structure code
+
+
+NPCDefinition
+----------------------------
+
+method13365(SequenceDefinition int SequenceDefinition int byte )
+  Handled impossible loop by adding 'first' condition
+
+
+PacketBuffer
+----------------------------
+
+method13784(byte )
+  Unable to fully structure code
+
+
+class399
+----------------------------
+
+method13847(java.lang.String int int class72 )
+  Loose catch block
+
+
+ModelData
+----------------------------
+
+method13924(byte[] )
+  Unable to fully structure code
+
+
+DynamicObject
+----------------------------
+
+getModel()
+  Unable to fully structure code
+
+
+Projectile
+----------------------------
+
+method14469(Actor int int int int int int )
+  Unable to fully structure code

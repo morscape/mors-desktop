@@ -1,0 +1,3 @@
+...\mors-desktop-master>
+npx frida-compile  fridas-scripts/idlenotifier.js -o frida-scripts/idle.compiled.js
+npx frida-compile  fridas-scripts/perspective.js -o fridas-cripts/perspective.compiled.js

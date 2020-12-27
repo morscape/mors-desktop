@@ -1,0 +1,27 @@
+JarUtil.java -> JarUtil.writeClass(line 124, 141)
+        if(!cf.getName().contains("android"))
+        {
+
+		try {
+			cf.accept(cca);
+		} catch (Exception ex){
+			logger.warn("Class {} failed writing, warning on mobile ",cf.getName(), ex);
+		}
+
+MenuActionDeobfuscator.java -> net.runelite.deob.deobfuscators.menuaction.MenuActionDeobfuscator.run(line 120)
+		try {
+			execution.run();
+		} catch (RuntimeException exception){
+			logger.info("Stack overflow on MenuActionDeobfuscator(). This is only a warning if you are deobfuscating apk ");
+		}
+
+MultiplicationDeobfuscator.java -> net.runelite.deob.deobfuscators.arithmetic.MultiplicationDeobfuscator.parseExpression(line ~100)
+        if (storeCtx != null && storeCtx.getInstruction() instanceof LVTInstruction)
+        {
+
+RuntimeExceptions.java ->  net.runelite.deob.deobfuscators.run(line 73)
+    // Mobile Client porting
+    //		if (!foundInit)
+    //		{
+    //			throw new IllegalStateException("client.init(...) method seems to be missing!");
+    //		}

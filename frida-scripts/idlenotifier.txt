@@ -1,0 +1,88 @@
+field: ce.jl.bd = -415900952
+field: ce.jl.bd = -415900952
+
+field: ce.jl.bk = -1315032193(decop:389632)
+
+field: ce.jl.cy = 0(decop:0)
+field: ce.jl.cy = 0(decop:0)
+field: ce.jl.cy = 0(decop:0)
+
+field: ce.jl.ct = 0(decop:0)
+field: ce.jl.ct = 0(decop:0)
+field: ce.jl.ct = 0(decop:0)
+
+field: ce.jl.cb = 1851732847(decop:0)
+field: ce.jl.cb = 1671699812(decop:0)
+field: ce.jl.cb = 360066070(decop:0)
+
+field: ce.jl.bu = 0(decop:0)
+field: ce.jl.bu = 0(decop:0)
+field: ce.jl.bu = 0(decop:0)
+
+field: ce.jl.bs = 0(decop:0)
+field: ce.jl.bs = 0(decop:0)
+field: ce.jl.bs = 0(decop:0)
+
+field: ce.jl.dx = -1226620814(decop:192)
+field: ce.jl.dx = -1226620814(decop:192)
+field: ce.jl.dx = -201903719(decop:193)
+field: ce.jl.dx = 2043629387(decop:-4294967104) -> 192
+field: ce.jl.dx = -201903719(decop:193)
+field: ce.jl.dx = -1030521898(decop:200) -- attack
+
+
+field: ce.jl.dn = 0(decop:0) - s
+field: ce.jl.dn = -1596290816(decop:1280) - r
+field: ce.jl.dn = -2136026112(decop:1024) - r
+field: ce.jl.dn = -516820224(decop:1792) - r
+field: ce.jl.dn = -1056555520(decop:1536) - s
+field: ce.jl.dn = -1056555520(decop:1536) - s
+field: ce.jl.dn = 1079470592(decop:-4294966784)-> 512- s (next tile)
+field: ce.jl.dn = -1908982197(decop:512) - a
+field: ce.jl.dn = -829511605(decop:1024) - a
+
+field: ce.jl.cm = -738683859(decop:0)
+field: ce.jl.cm = -738683859(decop:0)
+field: ce.jl.cm = -738683859(decop:0)
+
+field: ce.jl.ce = 0(decop:0)
+field: ce.jl.ce = 0(decop:0)
+field: ce.jl.ce = 0(decop:0)
+
+field: ce.jl.br = -1627594305(decop:0)
+field: ce.jl.br = -1627594305(decop:0)
+field: ce.jl.br = -1627594305(decop:0)
+
+field: ce.jl.bq = -1026544640(decop:1024) - s
+field: ce.jl.bq = 0(decop:0) - w
+field: ce.jl.bq = -1539816960(decop:1536) - w
+field: ce.jl.bq = -1539816960(decop:1536) - s
+field: ce.jl.bq = -513272320(decop:512) - s (next tile)
+field: ce.jl.bq = -1026544640(decop:1024) - s point N
+
+field: ce.jl.bn = 0(decop:0)
+field: ce.jl.bn = 0(decop:0)
+field: ce.jl.bn = 0(decop:0)
+
+probably x:
+field: ce.jl.bj = 1177109696(decop:7936)
+field: ce.jl.bj = -590762944(decop:-4294959168) -> 8128 (x+1)
+field: ce.jl.bj = 1177109696(decop:7936) (x-1 y+1)
+field: ce.jl.bj = -590762944(decop:-4294959168) (x+1)
+field: ce.jl.bj = 1936331712(decop:8192) (x+1)
+field: ce.jl.bj = 1936331712(decop:8384) (x+1)
+
+
+
+
+field cn -> sequence -> getAnimation() -> AnimationID
+384 att (388 AnimationID) -4
+1152 defend (1156 AnimationID) -4
+1024 chop bronze 879 +45
+512 mining bronze 625 -113
+768 bury 827
+512 firemaking??
+
+Firemaking: field: ce.jl.cn = 1473365315(* 1793361247 % 4294967296 = 512)
+Mining: field: ce.jl.cn = -1028900305(* 1793361247 % 4294967296 = 512)
+idle field: ce.jl.cn = 1169877345(* 1793361247 % 4294967296 = 0)
